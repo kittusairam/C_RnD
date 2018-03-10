@@ -1,0 +1,109 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.GreekGeeksSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    GreekGeekTest01_samples(): PrivateScope, Public, HideBySig
+    GreekGeekTest02(): PrivateScope, Public, HideBySig
+    GreekGeekTest03(): PrivateScope, Public, HideBySig
+    GreekGeekTest04(): PrivateScope, Public, HideBySig
+    GreekGeekTest05(): PrivateScope, Public, HideBySig
+    GreekGeekTest06(): PrivateScope, Public, HideBySig
+    GreekGeekTest07(): PrivateScope, Public, HideBySig
+    GreekGeekTest08(): PrivateScope, Public, HideBySig
+    GreekGeekTest09(): PrivateScope, Public, HideBySig
+    GreekGeekTest10(): PrivateScope, Public, HideBySig
+    GreekGeekTest11(): PrivateScope, Public, HideBySig
+    GreekGeekTest12(): PrivateScope, Public, HideBySig
+    GreekGeekTest13(): PrivateScope, Public, HideBySig
+    GreekGeekTest14(): PrivateScope, Public, HideBySig
+    GreekGeekTest15(): PrivateScope, Public, HideBySig
+    GreekGeekTest16(): PrivateScope, Public, HideBySig
+    GreekGeekTest17(): PrivateScope, Public, HideBySig
+    GreekGeekTest18(): PrivateScope, Public, HideBySig
+    GreekGeekTest19(): PrivateScope, Public, HideBySig
+    GreekGeekTest20(): PrivateScope, Public, HideBySig
+Class spec.KillingDragonsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    KillingDragonsSamples(): PrivateScope, Public, HideBySig
+Class spec.MeetingPointSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createCityNode(SByte* IsConst IsConst): PrivateScope, Public, HideBySig
+    createPath($ArrayType$$$BY0BE@D* IsConst IsConst, Int32): PrivateScope, Public, HideBySig
+    MeetingPoint_SampleTest01(): PrivateScope, Public, HideBySig
+    MeetingPoint_SampleTest02(): PrivateScope, Public, HideBySig
+    MeetingPoint_SampleTest03(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test04(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test05(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test06_NullCheck(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test07(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test08(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test09_NullCheck(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test10(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test11(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test12(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test13(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test14(): PrivateScope, Public, HideBySig
+    MeetingPoint_Test15(): PrivateScope, Public, HideBySig
+Class spec.SnakeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compare(Int32**, Int32**): PrivateScope, Public, HideBySig
+    fillExpectedOutput(Int32**, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    Sample_Snake(): PrivateScope, Public, HideBySig
+    Real_Snake01(): PrivateScope, Public, HideBySig
+    Real_Snake02(): PrivateScope, Public, HideBySig
+    Real_Snake03(): PrivateScope, Public, HideBySig
+    Real_Snake04(): PrivateScope, Public, HideBySig
+    Real_Snake05(): PrivateScope, Public, HideBySig
+    Real_Snake06(): PrivateScope, Public, HideBySig
+    Real_Snake07(): PrivateScope, Public, HideBySig
+    Real_Snake08(): PrivateScope, Public, HideBySig
+    Real_Snake09(): PrivateScope, Public, HideBySig
+    Real_Snake10(): PrivateScope, Public, HideBySig
+    Real_Snake11(): PrivateScope, Public, HideBySig
+    Real_Snake12(): PrivateScope, Public, HideBySig
+    Real_Snake13(): PrivateScope, Public, HideBySig
+    Real_Snake14(): PrivateScope, Public, HideBySig
+    Real_Snake15(): PrivateScope, Public, HideBySig
+    Real_Snake16(): PrivateScope, Public, HideBySig
+    Real_Snake17(): PrivateScope, Public, HideBySig
+    Real_Snake18(): PrivateScope, Public, HideBySig
+    Real_Snake19(): PrivateScope, Public, HideBySig
+Class spec.TripletsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    TripletsSamples(): PrivateScope, Public, HideBySig
