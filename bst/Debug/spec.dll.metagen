@@ -1,0 +1,106 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.BSTClosestLeafDistanceSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    BSTclosestNullCheck(): PrivateScope, Public, HideBySig
+    BSTclosestSmallCase(): PrivateScope, Public, HideBySig
+    BSTclosestMediumCase(): PrivateScope, Public, HideBySig
+    ClosestLeaf_LargeCase1(): PrivateScope, Public, HideBySig
+    ClosestLeaf_LargeCase2(): PrivateScope, Public, HideBySig
+Class spec.BSTRowsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    Rows_NullCheck(): PrivateScope, Public, HideBySig
+    Rows_OneElement(): PrivateScope, Public, HideBySig
+    Rows_ThreeElement(): PrivateScope, Public, HideBySig
+    Rows_FiveElements2(): PrivateScope, Public, HideBySig
+    Rows_MediumCase2(): PrivateScope, Public, HideBySig
+    Rows_MediumCase3(): PrivateScope, Public, HideBySig
+    Rows_LargeCase(): PrivateScope, Public, HideBySig
+Class spec.FixBSTSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    swap_nodes(node*, node*): PrivateScope, Public, HideBySig
+    FixBST_NullCheck(): PrivateScope, Public, HideBySig
+    FixBST_SmallCase(): PrivateScope, Public, HideBySig
+    FixBST_SmallCase2(): PrivateScope, Public, HideBySig
+    FixBST_SmallCase3(): PrivateScope, Public, HideBySig
+    FixBST_MediumCase(): PrivateScope, Public, HideBySig
+    FixBST_MediumCase2(): PrivateScope, Public, HideBySig
+    FixBST_LargeCase(): PrivateScope, Public, HideBySig
+    FixBST_LargeCase2(): PrivateScope, Public, HideBySig
+Class spec.HeightofBSTSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    Height_Nullcheck(): PrivateScope, Public, HideBySig
+    Height_Small(): PrivateScope, Public, HideBySig
+    Height_Medium(): PrivateScope, Public, HideBySig
+    Height_Large(): PrivateScope, Public, HideBySig
+Class spec.SortedArraytoBSTSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    get_height(node*): PrivateScope, Public, HideBySig
+    isBalanced(node*): PrivateScope, Public, HideBySig
+    search(node*, Int32): PrivateScope, Public, HideBySig
+    Rows_NullCheck(): PrivateScope, Public, HideBySig
+    ArraytoBST_One(): PrivateScope, Public, HideBySig
+    ArraytoBST_Three(): PrivateScope, Public, HideBySig
+    ArraytoBST_MediumCase0(): PrivateScope, Public, HideBySig
+    ArraytoBST_MediumCase1(): PrivateScope, Public, HideBySig
+    ArraytoBST_Large(): PrivateScope, Public, HideBySig
+Class spec.BSTTransversalsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    new_node_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node*, Int32): PrivateScope, Public, HideBySig
+    Transversals_Nullcheck(): PrivateScope, Public, HideBySig
+    Transversals_ThreeNums(): PrivateScope, Public, HideBySig
+    Transversals_FiveNums(): PrivateScope, Public, HideBySig
+    Transversals_TenNums(): PrivateScope, Public, HideBySig
+    Transversals_CustomTestCase(): PrivateScope, Public, HideBySig
