@@ -1,0 +1,119 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.SLL012SortSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    add(node**, Int32): PrivateScope, Public, HideBySig
+    check(Int32*, Int32, node*): PrivateScope, Public, HideBySig
+    checkAddresses(node** IsConst IsConst, Int32, Int32*): PrivateScope, Public, HideBySig
+    sllsort_T1(): PrivateScope, Public, HideBySig
+    sllSort_T2(): PrivateScope, Public, HideBySig
+    sllSort_T3(): PrivateScope, Public, HideBySig
+    sllSort_T4(): PrivateScope, Public, HideBySig
+    sllSort_T5(): PrivateScope, Public, HideBySig
+    sllSort_T6(): PrivateScope, Public, HideBySig
+    sllSort_T7(): PrivateScope, Public, HideBySig
+Class spec.numberToLinkedListSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compare(Int32* IsConst IsConst, Int32, node*): PrivateScope, Public, HideBySig
+    numberToLinkedList_T1(): PrivateScope, Public, HideBySig
+    numberToLinkedList_T2(): PrivateScope, Public, HideBySig
+    numberToLinkedList_T3(): PrivateScope, Public, HideBySig
+Class spec.removeEveryKthNodeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, Int32): PrivateScope, Public, HideBySig
+    removeEveryKthNode_T1(): PrivateScope, Public, HideBySig
+    removeEveryKthNode_T2(): PrivateScope, Public, HideBySig
+    removeEveryKthNode_T3(): PrivateScope, Public, HideBySig
+    removeEveryKthNode_T4(): PrivateScope, Public, HideBySig
+    removeEveryKthNode_T5(): PrivateScope, Public, HideBySig
+Class spec.sortLinkedListSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, node*): PrivateScope, Public, HideBySig
+    sortLinkedList_nullCheck(): PrivateScope, Public, HideBySig
+    sortLinkedList_sortedLinkedList(): PrivateScope, Public, HideBySig
+    sortLinkedList_singleNode(): PrivateScope, Public, HideBySig
+    sortLinkedList_moreThanOneNode(): PrivateScope, Public, HideBySig
+Class spec.twodigitLinkedListSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32, Int32): PrivateScope, Public, HideBySig
+    add(twoDigitNode**, Int32, Int32): PrivateScope, Public, HideBySig
+    twoDigitLL_simpleTwoDigit(): PrivateScope, Public, HideBySig
+    twoDigitLL_Zero2digit(): PrivateScope, Public, HideBySig
+    twoDigitLL_Repeated2digit(): PrivateScope, Public, HideBySig
+    twoDigitLL_Leadingzero2digit(): PrivateScope, Public, HideBySig
+Class spec.IsDivSLLSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode_Spec(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    createSLLFromString(SByte*): PrivateScope, Public, HideBySig
+    Sample1_Problem1(): PrivateScope, Public, HideBySig
+    Sample2_Problem1(): PrivateScope, Public, HideBySig
+    Sample3_Problem1(): PrivateScope, Public, HideBySig
+    runSimpleTestCase(SByte*, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    Real3_Problem1(): PrivateScope, Public, HideBySig
+    Real4_Problem1(): PrivateScope, Public, HideBySig
+    Real5_Problem1(): PrivateScope, Public, HideBySig
+    Real6_Problem1(): PrivateScope, Public, HideBySig
+    Real7_Problem1(): PrivateScope, Public, HideBySig
+    Real8_Problem1(): PrivateScope, Public, HideBySig
+    Real9_Problem1(): PrivateScope, Public, HideBySig
+    Real10_Problem1(): PrivateScope, Public, HideBySig
+    Real11_Problem1(): PrivateScope, Public, HideBySig
+    Real12_Problem1(): PrivateScope, Public, HideBySig
+    Real13_Problem1(): PrivateScope, Public, HideBySig
+    Real14_Problem1(): PrivateScope, Public, HideBySig
+    Real15_Problem1(): PrivateScope, Public, HideBySig
+    Real16_Problem1(): PrivateScope, Public, HideBySig
+    Real17_Problem1(): PrivateScope, Public, HideBySig
+    Real18_Problem1(): PrivateScope, Public, HideBySig
+    Real19_Problem1(): PrivateScope, Public, HideBySig
+    Real20_Problem1(): PrivateScope, Public, HideBySig
+    Real21_Problem1(): PrivateScope, Public, HideBySig
+    Real22_Problem1(): PrivateScope, Public, HideBySig
+    Real23_Problem1(): PrivateScope, Public, HideBySig
+    Real24_Problem1(): PrivateScope, Public, HideBySig
