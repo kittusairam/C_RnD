@@ -1,0 +1,230 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.BetweenDaysSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    addNode(node**, Int32): PrivateScope, Public, HideBySig
+    Sample1_BetweenDays(): PrivateScope, Public, HideBySig
+    Sample2_BetweenDays(): PrivateScope, Public, HideBySig
+    Real_BetweenDays1(): PrivateScope, Public, HideBySig
+    Real_BetweenDays2(): PrivateScope, Public, HideBySig
+    Real_BetweenDays3(): PrivateScope, Public, HideBySig
+    Real_BetweenDays4(): PrivateScope, Public, HideBySig
+    Real_BetweenDays5(): PrivateScope, Public, HideBySig
+    Real_BetweenDays6(): PrivateScope, Public, HideBySig
+    Real_BetweenDays7(): PrivateScope, Public, HideBySig
+    Real_BetweenDays8(): PrivateScope, Public, HideBySig
+    Real_BetweenDays9(): PrivateScope, Public, HideBySig
+    Real_BetweenDays10(): PrivateScope, Public, HideBySig
+    Real_BetweenDays11(): PrivateScope, Public, HideBySig
+    Real_BetweenDays12(): PrivateScope, Public, HideBySig
+    Real_BetweenDays13(): PrivateScope, Public, HideBySig
+    Real_BetweenDays14(): PrivateScope, Public, HideBySig
+    Real_BetweenDays15(): PrivateScope, Public, HideBySig
+    Real_BetweenDays16(): PrivateScope, Public, HideBySig
+    Real_BetweenDays17(): PrivateScope, Public, HideBySig
+    Real_BetweenDays18(): PrivateScope, Public, HideBySig
+    Real_BetweenDays19(): PrivateScope, Public, HideBySig
+    Real_BetweenDays20(): PrivateScope, Public, HideBySig
+    Real_BetweenDays21(): PrivateScope, Public, HideBySig
+    Real_BetweenDays22(): PrivateScope, Public, HideBySig
+    Real_BetweenDays23(): PrivateScope, Public, HideBySig
+Class spec.CircularListsMergeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    addNode(node**, Int32): PrivateScope, Public, HideBySig
+    make_it_circular(node*): PrivateScope, Public, HideBySig
+    is_correct(node*, Int32*, Int32): PrivateScope, Public, HideBySig
+    mrnd_sort(Int32*, Int32): PrivateScope, Public, HideBySig
+    Sample1_CircularListsMerge(): PrivateScope, Public, HideBySig
+    Sample2_CircularListsMerge(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge1(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge2(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge3(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge4(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge5(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge6(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge7(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge8(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge9(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge10(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge11(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge12(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge13(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge14(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge15(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge16(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge17(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge18(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge19(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge20(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge21(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge22(): PrivateScope, Public, HideBySig
+    Real_CircularListsMerge23(): PrivateScope, Public, HideBySig
+Class spec.DoorsToCrossSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createnode(Int32): PrivateScope, Public, HideBySig
+    strtoDLL(SByte*): PrivateScope, Public, HideBySig
+    TC1_DTC(): PrivateScope, Public, HideBySig
+    TC2_DTC(): PrivateScope, Public, HideBySig
+    TC3_DTC(): PrivateScope, Public, HideBySig
+    TC4_DTC(): PrivateScope, Public, HideBySig
+    TC5_DTC(): PrivateScope, Public, HideBySig
+    TC6_DTC(): PrivateScope, Public, HideBySig
+    TC7_DTC(): PrivateScope, Public, HideBySig
+    TC8_DTC(): PrivateScope, Public, HideBySig
+    TC9_DTC(): PrivateScope, Public, HideBySig
+    TC10_DTC(): PrivateScope, Public, HideBySig
+Class spec.insertAtEveryKthNodeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, Int32): PrivateScope, Public, HideBySig
+    nullCheck(): PrivateScope, Public, HideBySig
+    InvalidKValue(): PrivateScope, Public, HideBySig
+    KValueGreaterThanLength(): PrivateScope, Public, HideBySig
+    validKValue(): PrivateScope, Public, HideBySig
+Class spec.linkedListMedianSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, Int32): PrivateScope, Public, HideBySig
+    nullCheck(): PrivateScope, Public, HideBySig
+    medianevenLength(): PrivateScope, Public, HideBySig
+    medianOddLength(): PrivateScope, Public, HideBySig
+Class spec.merge2LinkedListsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, Int32): PrivateScope, Public, HideBySig
+    nullCheck(): PrivateScope, Public, HideBySig
+    oneLinkedListNULL(): PrivateScope, Public, HideBySig
+    sameLinkedLists(): PrivateScope, Public, HideBySig
+    sortedLinkedListsUnEqualLength(): PrivateScope, Public, HideBySig
+    sortedLinkedListsEqualLength(): PrivateScope, Public, HideBySig
+Class spec.OddEvenSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    addNode(oddevennode**, Int32): PrivateScope, Public, HideBySig
+    is_correct(oddevennode*, Int32*, Int32): PrivateScope, Public, HideBySig
+    mrnd_sort(Int32*, Int32): PrivateScope, Public, HideBySig
+    compare_arrays(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    toArray(oddevennode*, Int32): PrivateScope, Public, HideBySig
+    Sample1_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Sample2_OddEvenSLL(): PrivateScope, Public, HideBySig
+    getOddnode_spec123(oddevennode*): PrivateScope, Public, HideBySig
+    getEvennode_spec123(oddevennode*): PrivateScope, Public, HideBySig
+    testOddEven_spec123(Int32*, Int32*, Int32*, Int32, Int32): PrivateScope, Public, HideBySig
+    Real1_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real2_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real3_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real4_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real5_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real6_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real7_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real8_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real9_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real10_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real11_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real12_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real13_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real14_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real15_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real16_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real17_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real18_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real19_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real20_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real21_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real22_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Real23_OddEvenSLL(): PrivateScope, Public, HideBySig
+Class spec.PairUpSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode_P6(Int32): PrivateScope, Public, HideBySig
+    createList_P6(SByte*): PrivateScope, Public, HideBySig
+    createDataAndTest_P6(SByte*, SByte*): PrivateScope, Public, HideBySig
+    TCS1_PairUp(): PrivateScope, Public, HideBySig
+    TCS2_PairUp(): PrivateScope, Public, HideBySig
+    TCS3_PairUp(): PrivateScope, Public, HideBySig
+    TC0_PairUp(): PrivateScope, Public, HideBySig
+    TC1_PairUp(): PrivateScope, Public, HideBySig
+    TC2_PairUp(): PrivateScope, Public, HideBySig
+    TC3_PairUp(): PrivateScope, Public, HideBySig
+    TC4_PairUp(): PrivateScope, Public, HideBySig
+    TC5_PairUp(): PrivateScope, Public, HideBySig
+    TC6_PairUp(): PrivateScope, Public, HideBySig
+    TC7_PairUp(): PrivateScope, Public, HideBySig
+    TC8_PairUp(): PrivateScope, Public, HideBySig
+    TC9_PairUp(): PrivateScope, Public, HideBySig
+    TC10_PairUp(): PrivateScope, Public, HideBySig
+    TC11_PairUp(): PrivateScope, Public, HideBySig
+    TC12_PairUp(): PrivateScope, Public, HideBySig
+    TC13_PairUp(): PrivateScope, Public, HideBySig
+    TC14_PairUp(): PrivateScope, Public, HideBySig
+    TC15_PairUp(): PrivateScope, Public, HideBySig
+    TC16_PairUp(): PrivateScope, Public, HideBySig
+Class spec.reverseLinkedListSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    createList(Int32): PrivateScope, Public, HideBySig
+    compare(node*, Int32): PrivateScope, Public, HideBySig
+    nullCheck(): PrivateScope, Public, HideBySig
+    singleNode(): PrivateScope, Public, HideBySig
+    twoNodes(): PrivateScope, Public, HideBySig
+    multipleNodes(): PrivateScope, Public, HideBySig
