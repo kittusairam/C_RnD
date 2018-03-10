@@ -1,0 +1,40 @@
+﻿Build started 11/17/2017 2:37:15 AM.
+     1>Project "D:\RnD\final_test\spec\spec.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\spec.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\spec.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v4.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp ChessMovesSpec.cpp Fibo2048RowSpec.cpp LastOneSpec.cpp maxGoldSpec.cpp NearestSortedNumberSpec.cpp RepeatedDivisionSpec.cpp StudentsLoopSpec.cpp
+         AssemblyInfo.cpp
+         ChessMovesSpec.cpp
+     1>d:\rnd\final_test\spec\../src/ChessMoves.cpp(111): warning C4244: '=' : conversion from 'long double' to '__int64', possible loss of data
+         Fibo2048RowSpec.cpp
+         LastOneSpec.cpp
+         maxGoldSpec.cpp
+     1>d:\rnd\final_test\spec\../src/maxGold.cpp(81): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+         NearestSortedNumberSpec.cpp
+         RepeatedDivisionSpec.cpp
+         StudentsLoopSpec.cpp
+         Generating Code...
+     1>d:\rnd\final_test\src\lastone.cpp(78): warning C4715: 'lastOne' : not all control paths return a value
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\krish\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\RnD\final_test\Debug\spec.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\RnD\final_test\Debug\spec.pdb" /HEAP:"4194304" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ChessMovesSpec.obj
+         Debug\Fibo2048RowSpec.obj
+         Debug\LastOneSpec.obj
+         Debug\maxGoldSpec.obj
+         Debug\NearestSortedNumberSpec.obj
+         Debug\RepeatedDivisionSpec.obj
+         Debug\stdafx.obj
+         Debug\StudentsLoopSpec.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         spec.vcxproj -> D:\RnD\final_test\Debug\spec.dll
+     1>Done Building Project "D:\RnD\final_test\spec\spec.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.18

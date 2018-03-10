@@ -1,0 +1,193 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.ChessMovesSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    ChessMoves_Samples(): PrivateScope, Public, HideBySig
+    ChessMoves_Test01(): PrivateScope, Public, HideBySig
+    ChessMoves_Test02(): PrivateScope, Public, HideBySig
+    ChessMoves_Test03(): PrivateScope, Public, HideBySig
+    ChessMoves_Test04(): PrivateScope, Public, HideBySig
+    ChessMoves_Test05(): PrivateScope, Public, HideBySig
+    ChessMoves_Test06(): PrivateScope, Public, HideBySig
+    ChessMoves_Test07(): PrivateScope, Public, HideBySig
+    ChessMoves_Test08(): PrivateScope, Public, HideBySig
+    ChessMoves_Test09(): PrivateScope, Public, HideBySig
+    ChessMoves_Test10(): PrivateScope, Public, HideBySig
+    ChessMoves_Test11(): PrivateScope, Public, HideBySig
+    ChessMoves_Test12(): PrivateScope, Public, HideBySig
+    ChessMoves_Test13(): PrivateScope, Public, HideBySig
+    ChessMoves_Test14(): PrivateScope, Public, HideBySig
+Class spec.Fibo2048RowSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    validate_fibo(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    Fibo2048Row_Sample1(): PrivateScope, Public, HideBySig
+    Fibo2048Row_NullCheck(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Easy1(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Easy2(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Easy3(): PrivateScope, Public, HideBySig
+    Fibo2048Row_TwelveNumbers(): PrivateScope, Public, HideBySig
+    Fibo2048Row_TwelveNumbers2(): PrivateScope, Public, HideBySig
+    Fibo2048Row_BigNum1(): PrivateScope, Public, HideBySig
+    Fibo2048Row_BigNum2(): PrivateScope, Public, HideBySig
+    Fibo2048Row_BigNum3(): PrivateScope, Public, HideBySig
+    runBigTestCase1(): PrivateScope, Public, HideBySig
+    runBigTestCase2(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard1(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard2(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard3(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard4(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard5(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard6(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard7(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard8(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard9(): PrivateScope, Public, HideBySig
+    Fibo2048Row_Hard10(): PrivateScope, Public, HideBySig
+Class spec.LastOneSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    lastOne_Sample1(): PrivateScope, Public, HideBySig
+    lastOne_Sample2(): PrivateScope, Public, HideBySig
+    lastOne_Real01(): PrivateScope, Public, HideBySig
+    lastOne_Real02(): PrivateScope, Public, HideBySig
+    lastOne_Real03(): PrivateScope, Public, HideBySig
+    lastOne_Real04(): PrivateScope, Public, HideBySig
+    lastOne_Real05(): PrivateScope, Public, HideBySig
+    lastOne_Real06(): PrivateScope, Public, HideBySig
+    lastOne_Real07(): PrivateScope, Public, HideBySig
+    lastOne_Real08(): PrivateScope, Public, HideBySig
+    lastOne_Real09(): PrivateScope, Public, HideBySig
+    lastOne_Real10(): PrivateScope, Public, HideBySig
+    lastOne_Big01(): PrivateScope, Public, HideBySig
+    lastOne_Big02(): PrivateScope, Public, HideBySig
+    lastOne_Big03(): PrivateScope, Public, HideBySig
+    lastOne_Big04(): PrivateScope, Public, HideBySig
+    lastOne_Big05(): PrivateScope, Public, HideBySig
+    lastOne_Big06(): PrivateScope, Public, HideBySig
+    lastOne_Big07(): PrivateScope, Public, HideBySig
+    lastOne_Big08(): PrivateScope, Public, HideBySig
+Class spec.maxGoldSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    charToInt(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    createNewNode(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    constructTree(SByte*): PrivateScope, Public, HideBySig
+    maxGold_Sample(): PrivateScope, Public, HideBySig
+    maxGold_Real01(): PrivateScope, Public, HideBySig
+    maxGold_Real02(): PrivateScope, Public, HideBySig
+    maxGold_Real03(): PrivateScope, Public, HideBySig
+    maxGold_Real04(): PrivateScope, Public, HideBySig
+    maxGold_Real05(): PrivateScope, Public, HideBySig
+    maxGold_Real06(): PrivateScope, Public, HideBySig
+    maxGold_Real07(): PrivateScope, Public, HideBySig
+    maxGold_Real08(): PrivateScope, Public, HideBySig
+    maxGold_Real09(): PrivateScope, Public, HideBySig
+    maxGold_Real10(): PrivateScope, Public, HideBySig
+    maxGold_Real11(): PrivateScope, Public, HideBySig
+    maxGold_Real12(): PrivateScope, Public, HideBySig
+    maxGold_Real13(): PrivateScope, Public, HideBySig
+    maxGold_Real14(): PrivateScope, Public, HideBySig
+    maxGold_Real15(): PrivateScope, Public, HideBySig
+    maxGold_Real16(): PrivateScope, Public, HideBySig
+    maxGold_Real17(): PrivateScope, Public, HideBySig
+    maxGold_Real18(): PrivateScope, Public, HideBySig
+    maxGold_Real19(): PrivateScope, Public, HideBySig
+Class spec.NearestSortedNumberSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    checker(SByte*, SByte*): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Samples(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test01(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test02(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test03(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test04(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test05(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test06(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test07(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test08(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test09(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test10(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test11(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test12(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test13(): PrivateScope, Public, HideBySig
+    NearestSortedNumber_Test14(): PrivateScope, Public, HideBySig
+Class spec.RepeatedDivisionSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    RepeatedDivision_Samples(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test01(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test02(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test03(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test04(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test05(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test06(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test07(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test08(): PrivateScope, Public, HideBySig
+    RepeatedDivision_Test09(): PrivateScope, Public, HideBySig
+Class spec.StudentsLoopSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createStudentNode(Int32): PrivateScope, Public, HideBySig
+    createListFromArray(Int32*, Int32, Int32): PrivateScope, Public, HideBySig
+    validateLoop(loopnode*, loopnode*, Int32): PrivateScope, Public, HideBySig
+    validateNonLoop(loopnode*, loopnode*): PrivateScope, Public, HideBySig
+    StudentsLoop_Samples(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test01(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test02(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test03(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test04(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test05(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test06(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test07(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test08(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test09(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test10(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test11(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test12(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test13(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test14(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test15(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test16(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test17(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test18(): PrivateScope, Public, HideBySig
+    StudentsLoop_Test19(): PrivateScope, Public, HideBySig
