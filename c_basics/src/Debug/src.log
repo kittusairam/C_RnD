@@ -1,0 +1,37 @@
+﻿Build started 6/30/2017 6:47:46 AM.
+     1>Project "C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\src\src.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MainBasics.cpp count.cpp countFactorials.cpp countOnes.cpp decimalToOctal.cpp isOlder.cpp isPerfect.cpp nthNumber.cpp octalToHexadecimal.cpp swapBits.cpp variableArguments.cpp
+         variableArguments.cpp
+         swapBits.cpp
+         octalToHexadecimal.cpp
+         nthNumber.cpp
+     1>c:\users\krish\google drive\ol_2018_c_gvp_kittusairam\cbasics\c-basics-master\src\nthnumber.cpp(48): warning C4552: '+' : operator has no effect; expected operator with side-effect
+         isPerfect.cpp
+         isOlder.cpp
+         decimalToOctal.cpp
+         countOnes.cpp
+         countFactorials.cpp
+         count.cpp
+         MainBasics.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\Debug\src.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\Debug\src.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\Debug\src.lib" /MACHINE:X86 Debug\count.obj
+         Debug\countFactorials.obj
+         Debug\countOnes.obj
+         Debug\decimalToOctal.obj
+         Debug\isOlder.obj
+         Debug\isPerfect.obj
+         Debug\MainBasics.obj
+         Debug\nthNumber.obj
+         Debug\octalToHexadecimal.obj
+         Debug\swapBits.obj
+         Debug\sum.obj
+         Debug\swap.obj
+         Debug\variableArguments.obj
+         src.vcxproj -> C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\Debug\src.exe
+     1>Done Building Project "C:\Users\krish\Google Drive\ol_2018_c_GVP_kittusairam\CBasics\C-Basics-master\src\src.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:20.55
