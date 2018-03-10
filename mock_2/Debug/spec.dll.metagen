@@ -1,0 +1,154 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.ChessPawnsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    ChessGame_Samples_Test01(): PrivateScope, Public, HideBySig
+    ChessGame_Test02(): PrivateScope, Public, HideBySig
+    ChessGame_Test03(): PrivateScope, Public, HideBySig
+    ChessGame_Test04(): PrivateScope, Public, HideBySig
+    ChessGame_Test05(): PrivateScope, Public, HideBySig
+    ChessGame_Test06(): PrivateScope, Public, HideBySig
+    ChessGame_Test07(): PrivateScope, Public, HideBySig
+    ChessGame_Test08(): PrivateScope, Public, HideBySig
+    ChessGame_Test09(): PrivateScope, Public, HideBySig
+    ChessGame_Test10(): PrivateScope, Public, HideBySig
+    ChessGame_Test11(): PrivateScope, Public, HideBySig
+    ChessGame_Test12(): PrivateScope, Public, HideBySig
+    ChessGame_Test13(): PrivateScope, Public, HideBySig
+    ChessGame_Test14(): PrivateScope, Public, HideBySig
+    ChessGame_Test15(): PrivateScope, Public, HideBySig
+    ChessGame_Test16(): PrivateScope, Public, HideBySig
+    ChessGame_Test17(): PrivateScope, Public, HideBySig
+    ChessGame_Test18(): PrivateScope, Public, HideBySig
+    ChessGame_Test19(): PrivateScope, Public, HideBySig
+    ChessGame_Test20(): PrivateScope, Public, HideBySig
+Class spec.DomValidatorSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    dom_basic_single_tag(): PrivateScope, Public, HideBySig
+    dom_basic_syntax(): PrivateScope, Public, HideBySig
+    dom_basic_all_tags(): PrivateScope, Public, HideBySig
+    dom_basic_priority_1(): PrivateScope, Public, HideBySig
+    dom_basic_priority_2(): PrivateScope, Public, HideBySig
+    dom_basic_invalid_tag(): PrivateScope, Public, HideBySig
+    dom_basic_empty(): PrivateScope, Public, HideBySig
+    dom_basic_no_tag(): PrivateScope, Public, HideBySig
+    dom_basic_syntax_2(): PrivateScope, Public, HideBySig
+    dom_basic_syntax_3(): PrivateScope, Public, HideBySig
+    dom_basic_syntax_4(): PrivateScope, Public, HideBySig
+    dom_basic_syntax_5(): PrivateScope, Public, HideBySig
+    dom_basic_syntax_6(): PrivateScope, Public, HideBySig
+    dom_basic_empty_tag(): PrivateScope, Public, HideBySig
+    dom_basic_tag_spelling(): PrivateScope, Public, HideBySig
+Class spec.EncodeDecodeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compareStrings_ED(SByte*, SByte*): PrivateScope, Public, HideBySig
+    EncodeDecode_Sample1(): PrivateScope, Public, HideBySig
+    EncodeDecode_Sample2(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real1(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real2(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real3(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real4(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real5(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real6(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real7(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real10(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real11(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real12(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real13(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real14(): PrivateScope, Public, HideBySig
+    EncodeDecode_Real15(): PrivateScope, Public, HideBySig
+Class spec.MangoCollectorSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    newNode_Mango(Int32): PrivateScope, Public, HideBySig
+    constructBinaryTree_spec(Int32*, Int32): PrivateScope, Public, HideBySig
+    compare_arrays_mc_spec(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    testMangoCollector(Int32, Int32*, Int32, Int32, Int32, Int32*, Int32): PrivateScope, Public, HideBySig
+    Sample1_MangoCollector(): PrivateScope, Public, HideBySig
+    Sample2_MangoCollector(): PrivateScope, Public, HideBySig
+    Sample3_MangoCollector(): PrivateScope, Public, HideBySig
+    Real1_MangoCollector(): PrivateScope, Public, HideBySig
+    Real3_MangoCollector(): PrivateScope, Public, HideBySig
+    Real4_MangoCollector(): PrivateScope, Public, HideBySig
+    Real5_MangoCollector(): PrivateScope, Public, HideBySig
+    Real6_MangoCollector(): PrivateScope, Public, HideBySig
+    Real7_MangoCollector(): PrivateScope, Public, HideBySig
+    Real8_MangoCollector(): PrivateScope, Public, HideBySig
+    Real9_MangoCollector(): PrivateScope, Public, HideBySig
+    Real10_MangoCollector(): PrivateScope, Public, HideBySig
+    Real11_MangoCollector(): PrivateScope, Public, HideBySig
+    Real12_MangoCollector(): PrivateScope, Public, HideBySig
+    Real13_MangoCollector(): PrivateScope, Public, HideBySig
+    Real14_MangoCollector(): PrivateScope, Public, HideBySig
+    Real16_MangoCollector(): PrivateScope, Public, HideBySig
+    Real17_MangoCollector(): PrivateScope, Public, HideBySig
+    Real19_MangoCollector(): PrivateScope, Public, HideBySig
+    Real20_MangoCollector(): PrivateScope, Public, HideBySig
+Class spec.MiniLeaderboardSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compareStrings_Leaderboard(SByte*, SByte*): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Sample1(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Sample2(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real1(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real2(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real3(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real4(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real5(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real6(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real7(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real8(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real9_AlphaSort(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real10_AlphaSort(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real11(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real12(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real13_Hard1(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real14_Hard2(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real15_Hard3(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real16_Hard4(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real17_Hard5(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real18_Hard6(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real19_Hard7(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real20_Hard8(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real21_Hard9(): PrivateScope, Public, HideBySig
+    MiniLeaderboard_Real22_Hard10(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Real23_Medium1(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Real24_Medium2(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Real25_Medium3(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Real26_Medium4(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Rea27_Medium5(): PrivateScope, Public, HideBySig
+    MiniLeaderboard23_Real28_Medium6(): PrivateScope, Public, HideBySig
