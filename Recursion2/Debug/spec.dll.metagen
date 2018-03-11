@@ -1,0 +1,140 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.DLL_BSTSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    newNode_DLL_spec(Int32): PrivateScope, Public, HideBySig
+    make_dll_spec(Int32*, Int32): PrivateScope, Public, HideBySig
+    newNode_spec(Int32): PrivateScope, Public, HideBySig
+    add_node_spec(node_bst*, Int32): PrivateScope, Public, HideBySig
+    make_bst_spec(Int32*, Int32): PrivateScope, Public, HideBySig
+    delete_tree(node_bst*): PrivateScope, Public, HideBySig
+    dll_bst_spec(Int32*, Int32*, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    dll_bst_test01(): PrivateScope, Public, HideBySig
+    dll_bst_test02(): PrivateScope, Public, HideBySig
+    dll_bst_test03(): PrivateScope, Public, HideBySig
+    dll_bst_test04(): PrivateScope, Public, HideBySig
+    dll_bst_test05(): PrivateScope, Public, HideBySig
+    dll_bst_test06(): PrivateScope, Public, HideBySig
+Class spec.IdentifyKidSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    IdentifyKid_Invalid(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test1(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test2(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test3(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test4(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test5(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test6(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test7(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test8(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test9(): PrivateScope, Public, HideBySig
+    IdentifyKid_Test10(): PrivateScope, Public, HideBySig
+Class spec.magicToolSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    isContains(Point*, Int32, Point): PrivateScope, Public, HideBySig
+    compareResults(result, result): PrivateScope, Public, HideBySig
+    magic_tool_basic(): PrivateScope, Public, HideBySig
+    magic_tool_single(): PrivateScope, Public, HideBySig
+    magic_tool_null_check(): PrivateScope, Public, HideBySig
+    magic_tool_basic_2(): PrivateScope, Public, HideBySig
+    magic_tool_basic_3(): PrivateScope, Public, HideBySig
+    magic_tool_invalid_neg_pivot(): PrivateScope, Public, HideBySig
+    magic_tool_invalid_exceeding_pivot(): PrivateScope, Public, HideBySig
+Class spec.MergeBSTsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    newNode_mergeBST(Int32): PrivateScope, Public, HideBySig
+    insertNode_mergeBST(BstNode*, Int32): PrivateScope, Public, HideBySig
+    create_BST(Int32*, Int32): PrivateScope, Public, HideBySig
+    searchNode(BstNode*, BstNode*): PrivateScope, Public, HideBySig
+    test_mergeBSTs(BstNode*, BstNode** IsConst IsConst, Int32): PrivateScope, Public, HideBySig
+    addToArray(BstNode**, BstNode*, Int32* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    addNodes(BstNode*, BstNode**, Int32* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    totalNodeCount(BstNode*): PrivateScope, Public, HideBySig
+    MergeBST_Test01(): PrivateScope, Public, HideBySig
+    MergeBST_Test02(): PrivateScope, Public, HideBySig
+    MergeBST_Test03(): PrivateScope, Public, HideBySig
+    MergeBST_Test04(): PrivateScope, Public, HideBySig
+    MergeBST_Test05(): PrivateScope, Public, HideBySig
+    MergeBST_Test06(): PrivateScope, Public, HideBySig
+    MergeBST_Test07(): PrivateScope, Public, HideBySig
+Class spec.NewYorkSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    NewYork_Invalid(): PrivateScope, Public, HideBySig
+    NewYork_Test1(): PrivateScope, Public, HideBySig
+    NewYork_Test2(): PrivateScope, Public, HideBySig
+    NewYork_Test3(): PrivateScope, Public, HideBySig
+    NewYork_Test4(): PrivateScope, Public, HideBySig
+    NewYork_Test5(): PrivateScope, Public, HideBySig
+    NewYork_Test6(): PrivateScope, Public, HideBySig
+    NewYork_Test7(): PrivateScope, Public, HideBySig
+    NewYork_Test8(): PrivateScope, Public, HideBySig
+    NewYork_Test9(): PrivateScope, Public, HideBySig
+    NewYork_Test10(): PrivateScope, Public, HideBySig
+Class spec.SaveMarySpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    TC0(): PrivateScope, Public, HideBySig
+    TC1(): PrivateScope, Public, HideBySig
+    TC2(): PrivateScope, Public, HideBySig
+    TC3(): PrivateScope, Public, HideBySig
+    TC4(): PrivateScope, Public, HideBySig
+    TC5(): PrivateScope, Public, HideBySig
+    TC6(): PrivateScope, Public, HideBySig
+    TC7(): PrivateScope, Public, HideBySig
+    TC8(): PrivateScope, Public, HideBySig
+    TC9(): PrivateScope, Public, HideBySig
+    TC10(): PrivateScope, Public, HideBySig
+    TC11(): PrivateScope, Public, HideBySig
+    TC12(): PrivateScope, Public, HideBySig
+    TC13(): PrivateScope, Public, HideBySig
+    TC14(): PrivateScope, Public, HideBySig
+    TC15(): PrivateScope, Public, HideBySig
+    TC16(): PrivateScope, Public, HideBySig
+    TC17(): PrivateScope, Public, HideBySig
+    TC18(): PrivateScope, Public, HideBySig
+    TC19(): PrivateScope, Public, HideBySig
+    TC20(): PrivateScope, Public, HideBySig
+    TC21(): PrivateScope, Public, HideBySig
+    TC22(): PrivateScope, Public, HideBySig
+    TC23(): PrivateScope, Public, HideBySig
+    TC24(): PrivateScope, Public, HideBySig
+    TC25(): PrivateScope, Public, HideBySig

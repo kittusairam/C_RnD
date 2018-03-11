@@ -1,0 +1,13 @@
+﻿Build started 11/8/2017 12:56:44 AM.
+     1>Project "D:\RnD\Recursion2\src\src.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MergeBSTs.cpp magicTool.cpp
+         magicTool.cpp
+     1>d:\rnd\recursion2\src\magictool.cpp(60): error C2065: 'NULL' : undeclared identifier
+         MergeBSTs.cpp
+         Generating Code...
+     1>Done Building Project "D:\RnD\Recursion2\src\src.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.81
