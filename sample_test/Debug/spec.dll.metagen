@@ -1,0 +1,42 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.Problem1Spec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Sample1_P1(): PrivateScope, Public, HideBySig
+    Sample2_P1(): PrivateScope, Public, HideBySig
+    Sample3_P1(): PrivateScope, Public, HideBySig
+Class spec.Problem2Spec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    createNode(Int32): PrivateScope, Public, HideBySig
+    addNode(oddevennode**, Int32): PrivateScope, Public, HideBySig
+    is_correct(oddevennode*, Int32*, Int32): PrivateScope, Public, HideBySig
+    mrnd_sort(Int32*, Int32): PrivateScope, Public, HideBySig
+    compare_arrays(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    toArray(oddevennode*, Int32): PrivateScope, Public, HideBySig
+    Sample1_OddEvenSLL(): PrivateScope, Public, HideBySig
+    Sample2_OddEvenSLL(): PrivateScope, Public, HideBySig
+    getOddnode_spec123(oddevennode*): PrivateScope, Public, HideBySig
+    getEvennode_spec123(oddevennode*): PrivateScope, Public, HideBySig
+    testOddEven_spec123(Int32*, Int32*, Int32*, Int32, Int32): PrivateScope, Public, HideBySig
+    Sample3_OddEvenSLL(): PrivateScope, Public, HideBySig
