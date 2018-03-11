@@ -1,0 +1,155 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.binaryStrOpSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    modifyOperationStr(SByte*, Int32): PrivateScope, Public, HideBySig
+    compareStrings(SByte*, SByte*): PrivateScope, Public, HideBySig
+    testOperation(SByte*, SByte*, SByte*, Int32): PrivateScope, Public, HideBySig
+    Sample1_BinaryStrOp(): PrivateScope, Public, HideBySig
+    Sample2_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC1_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC13_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC14_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC15_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC2_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC3_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC5_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC6_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC7_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC8_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC9_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC10_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC11_BinaryStrOp(): PrivateScope, Public, HideBySig
+    TC12_BinaryStrOp(): PrivateScope, Public, HideBySig
+Class spec.validEmailSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    testDefault1_P1(): PrivateScope, Public, HideBySig
+    testDefault2_P1(): PrivateScope, Public, HideBySig
+    testDefault0_P1(): PrivateScope, Public, HideBySig
+    Sample1_ValidEmail(): PrivateScope, Public, HideBySig
+    Sample2_ValidEmail(): PrivateScope, Public, HideBySig
+    Sample3_ValidEmail(): PrivateScope, Public, HideBySig
+    TC1_ValidEmail(): PrivateScope, Public, HideBySig
+    TC2_ValidEmail(): PrivateScope, Public, HideBySig
+    TC3_ValidEmail(): PrivateScope, Public, HideBySig
+    TC4_ValidEmail(): PrivateScope, Public, HideBySig
+    TC5_ValidEmail(): PrivateScope, Public, HideBySig
+    TC6_ValidEmail(): PrivateScope, Public, HideBySig
+    TC7_ValidEmail(): PrivateScope, Public, HideBySig
+    TC8_ValidEmail(): PrivateScope, Public, HideBySig
+    TC9_ValidEmail(): PrivateScope, Public, HideBySig
+    TC10_ValidEmail(): PrivateScope, Public, HideBySig
+    TC11_ValidEmail(): PrivateScope, Public, HideBySig
+    TC12_ValidEmail(): PrivateScope, Public, HideBySig
+    TC13_ValidEmail(): PrivateScope, Public, HideBySig
+    TC14_ValidEmail(): PrivateScope, Public, HideBySig
+    TC15_ValidEmail(): PrivateScope, Public, HideBySig
+    TC16_ValidEmail(): PrivateScope, Public, HideBySig
+    TC17_ValidEmail(): PrivateScope, Public, HideBySig
+    TC18_ValidEmail(): PrivateScope, Public, HideBySig
+    TC19_ValidEmail(): PrivateScope, Public, HideBySig
+    TC20_ValidEmail(): PrivateScope, Public, HideBySig
+    TC21_ValidEmail(): PrivateScope, Public, HideBySig
+    TC22_ValidEmail(): PrivateScope, Public, HideBySig
+Class spec.CommonRouteSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    testCommonRoute(SByte*, SByte*, Int32, Int32): PrivateScope, Public, HideBySig
+    Sample1_CommonRoute(): PrivateScope, Public, HideBySig
+    Sample2_CommonRoute(): PrivateScope, Public, HideBySig
+    sumof_spec123(SByte*): PrivateScope, Public, HideBySig
+    Real1_CommonRoute(): PrivateScope, Public, HideBySig
+    Real2_CommonRoute(): PrivateScope, Public, HideBySig
+    Real3_CommonRoute(): PrivateScope, Public, HideBySig
+    Real4_CommonRoute(): PrivateScope, Public, HideBySig
+    Real5_CommonRoute(): PrivateScope, Public, HideBySig
+    Real6_CommonRoute(): PrivateScope, Public, HideBySig
+    Real7_CommonRoute(): PrivateScope, Public, HideBySig
+    Real8_CommonRoute(): PrivateScope, Public, HideBySig
+    Real9_CommonRoute(): PrivateScope, Public, HideBySig
+    Real12_CommonRoute(): PrivateScope, Public, HideBySig
+    Real13_CommonRoute(): PrivateScope, Public, HideBySig
+    Real20_CommonRoute(): PrivateScope, Public, HideBySig
+    Real22_CommonRoute(): PrivateScope, Public, HideBySig
+Class spec.Consonants_VowelsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    OneLetter_ConsonantsVowels(): PrivateScope, Public, HideBySig
+    EmptyString_ConsonantsVowels(): PrivateScope, Public, HideBySig
+    ComplexString_ConsonantsVowels(): PrivateScope, Public, HideBySig
+    ComplexCapitalLong_ConsonantsVowels(): PrivateScope, Public, HideBySig
+    NULLstring_ConsonantsVowels(): PrivateScope, Public, HideBySig
+Class spec.getFrequencyofWordSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    NormalStringFrequency_GFOW(): PrivateScope, Public, HideBySig
+Class spec.getLastWordSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    TC1_LastWord(): PrivateScope, Public, HideBySig
+Class spec.getSubstringSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    TC1_SubString(): PrivateScope, Public, HideBySig
+    TC2_SubString(): PrivateScope, Public, HideBySig
+    TC3_SubString(): PrivateScope, Public, HideBySig
+    TC4_SubString(): PrivateScope, Public, HideBySig
+Class spec.strMatchSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Sample_strMatch(): PrivateScope, Public, HideBySig
+    Sample2_strMatch(): PrivateScope, Public, HideBySig
+    Sample3_strMatch(): PrivateScope, Public, HideBySig
+    testSimpleCaseP1(SByte*, SByte*, Int32): PrivateScope, Public, HideBySig
+    TC1_strMatch(): PrivateScope, Public, HideBySig
+    TC4_strMatch(): PrivateScope, Public, HideBySig
+    TC6_strMatch(): PrivateScope, Public, HideBySig
+    TC7_strMatch(): PrivateScope, Public, HideBySig
+    TC17_strMatch(): PrivateScope, Public, HideBySig
+    TC20_strMatch(): PrivateScope, Public, HideBySig
+    TC22_strMatch(): PrivateScope, Public, HideBySig
